@@ -19,6 +19,7 @@ api = tweepy.API(auth)
 
 
 #put your tweets here
+#some of these tweets have been taken from the top section of the hashtag #BoycottPexa,credit goes to the respective users 
 list=["Pexa is not safe",
 "Don't know what kind of university takes exams during a pandemic",
 "Our documents are at risk!",
