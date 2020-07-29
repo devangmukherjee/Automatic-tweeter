@@ -20,30 +20,8 @@ api = tweepy.API(auth)
 
 #put your tweets here
 #some of these tweets have been taken from the top section of the hashtag #BoycottPexa,credit goes to the respective users 
-list=["Pexa is not safe",
-"Don't know what kind of university takes exams during a pandemic",
-"Our documents are at risk!",
-"Enough is enough!",
-"The company's software comes with virus!",
-"Manipal address our problems!",
-"It's high time you listen to your students",
-"PEXA lite is virus laden app, its not even tested properly",
-"Stop coming up with generic excuses!",
-"They don't care",
-"You're letting us down.",
-"Borrow laptops from neighbours during lockdown",
-"The circulars doesn't address any problems which we are facing",
-"With all these viruses and not budging from their initial statement that PEXA Lite is safe",
-"Thank you for not paying a heed to our concerns ",
-"Not a single issue has been dealt with head-on."
-"Ignorance, Negligence, Miscommunication, Lies!!",
-"We stand united.",
-"Use better platform, Institute of Eminence",
-"Absolute joke of a software!",
-"Handing over our personal information like this.",
-"What are these people upto? it is sad.",
-"Need of the hour!",
-" "
+list=[
+"INSERT YOUR TWEETS HERE"
 ]
 
 # Posting of tweets 
