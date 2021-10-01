@@ -28,7 +28,7 @@ list=[
 for i in range(len(list)):
     try:
         #insert more hashtags if you want to here
-        api.update_status(status =list[i]+" @ManipalUni"+" #BoycottPexa"+" @ugc_india") 
+        api.update_status(status =list[i]+" @MAHE_Manipal"+" #BoycottPexa"+" @ugc_india") 
     except KeyboardInterrupt:
         exit()     
 
